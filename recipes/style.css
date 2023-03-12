@@ -1,0 +1,33 @@
+h4 {
+    font-weight: 800;
+    font-size: large;
+    color: cornflowerblue;
+}
+
+h1 {
+    color: cadetblue;
+}
+
+li {
+    font-size: large;
+    color: rgb(0, 0, 0);
+    background-color: rgba(178, 241, 243, 0.281);
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgba(217, 240, 241, 0.205);
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
